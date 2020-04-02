@@ -11,3 +11,23 @@
     text-align: right;
 }
 
+/*start header*/
+header{
+    height: 550px;
+    width: auto;
+}
+/*CSS card*/
+.border{
+    border: none;
+}
+
+/*end CSS card*/
+
+/*CSS img*/
+.img-header{
+    height: 500px;
+    width: auto;
+    float: right;
+}
+/*end img*/
+/*end header*/
