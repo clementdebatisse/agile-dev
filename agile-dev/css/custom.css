@@ -1,0 +1,13 @@
+.feature {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+}
+.right p {
+    text-align: right;
+}
+.right h3 {
+    text-align: right;
+}
+
